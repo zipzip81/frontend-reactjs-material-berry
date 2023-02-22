@@ -2,7 +2,7 @@
     "name": "berry-material-react-free",
     "version": "3.3.1",
     "private": true,
-    "homepage": "https://dev-frontend-reactjs.web.app/free/",
+    "homepage": "https://dev-frontend-reactjs.web.app/free",
     "dependencies": {
         "@emotion/cache": "^11.9.3",
         "@emotion/react": "^11.9.3",
