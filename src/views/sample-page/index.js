@@ -21,7 +21,7 @@ const SamplePage = () => {
     };
 
     return (
-        <MainCard title="Sample Card">
+        <MainCard title="Sample REST API Call">
             <TextField label="Name" value={name} onChange={handleNameChange} />
             <Button variant="contained" onClick={handleButtonClick}>
                 Submit
