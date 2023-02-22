@@ -62,6 +62,8 @@ Clone from Github
 
 ```
 git clone https://github.com/codedthemes/berry-free-react-admin-template.git
+
+access https://URL/dashboard/default
 ```
 
 ## Documentation
